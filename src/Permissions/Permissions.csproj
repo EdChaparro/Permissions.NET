@@ -5,6 +5,7 @@
     <AssemblyName>intrepidproducts.permissions</AssemblyName>
     <RootNamespace>intrepidproducts.permissions</RootNamespace>
     <Nullable>enable</Nullable>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>

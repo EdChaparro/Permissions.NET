@@ -8,6 +8,8 @@
     <AssemblyName>intrepidproducts.permissions.test</AssemblyName>
 
     <RootNamespace>intrepidproducts.permissions.test</RootNamespace>
+
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
