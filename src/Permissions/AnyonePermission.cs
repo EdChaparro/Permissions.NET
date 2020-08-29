@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace intrepidproducts.permissions
+namespace IntrepidProducts.Permissions
 {
     public class AnyonePermission : Permission
     {

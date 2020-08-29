@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using intrepidproducts.common;
+using IntrepidProducts.Common;
 
-namespace intrepidproducts.permissions
+namespace IntrepidProducts.Permissions
 {
     public class Permission : IPermission
     {

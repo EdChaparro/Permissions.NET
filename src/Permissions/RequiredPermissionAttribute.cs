@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace intrepidproducts.permissions
+namespace IntrepidProducts.Permissions
 {
     [AttributeUsage(AttributeTargets.Method, AllowMultiple = false)]
     public class RequiredPermissionAttribute : Attribute, IPermissionAttribute

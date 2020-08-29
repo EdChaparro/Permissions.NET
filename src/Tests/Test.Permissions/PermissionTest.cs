@@ -1,7 +1,7 @@
 ﻿using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace intrepidproducts.permissions.test
+namespace IntrepidProducts.Permissions.Tests
 {
     [TestClass]
     public class PermissionTest

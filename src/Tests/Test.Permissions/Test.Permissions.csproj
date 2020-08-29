@@ -5,9 +5,9 @@
 
     <IsPackable>false</IsPackable>
 
-    <AssemblyName>intrepidproducts.permissions.test</AssemblyName>
+    <AssemblyName>IntrepidProducts.Permissions.Tests</AssemblyName>
 
-    <RootNamespace>intrepidproducts.permissions.test</RootNamespace>
+    <RootNamespace>IntrepidProducts.Permissions.Tests</RootNamespace>
 
     <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>

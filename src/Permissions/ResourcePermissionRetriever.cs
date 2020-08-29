@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 
-namespace intrepidproducts.permissions
+namespace IntrepidProducts.Permissions
 {
     public interface IResourcePermissionRetriever
     {

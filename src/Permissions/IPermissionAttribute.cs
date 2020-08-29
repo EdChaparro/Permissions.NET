@@ -1,4 +1,4 @@
-﻿namespace intrepidproducts.permissions
+﻿namespace IntrepidProducts.Permissions
 {
     public interface IPermissionAttribute
     {

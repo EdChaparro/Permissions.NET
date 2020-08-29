@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
-    <AssemblyName>intrepidproducts.permissions</AssemblyName>
-    <RootNamespace>intrepidproducts.permissions</RootNamespace>
+    <AssemblyName>IntrepidProducts.Permissions</AssemblyName>
+    <RootNamespace>IntrepidProducts.Permissions</RootNamespace>
     <Nullable>enable</Nullable>
     <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
