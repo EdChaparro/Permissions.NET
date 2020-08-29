@@ -35,14 +35,14 @@ namespace intrepidproducts.permissions.test
         }
 
         [TestMethod]
-        public void ShouldNotAuthorizedAnUnknownResource()
+        public void ShouldNotAuthorizeAnUnknownResource()
         {
             var permission = new Permission(action: "Edit", resource: "Foo");
             Assert.IsFalse(permission.IsAuthorized("Bar", "Create"));
         }
 
         [TestMethod]
-        public void ShouldNotAuthorizedAnUnknownAction()
+        public void ShouldNotAuthorizeAnUnknownAction()
         {
             var permission = new Permission(action: "Garbage", resource: "Foo");
             Assert.IsFalse(permission.IsAuthorized("Bar", "Create"));
