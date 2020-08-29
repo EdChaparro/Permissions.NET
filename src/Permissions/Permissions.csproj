@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <AssemblyName>intrepidproducts.permissions</AssemblyName>
+    <RootNamespace>intrepidproducts.permissions</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="intrepidproducts.common">
+      <HintPath>..\..\dependencies\intrepidproducts.common.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
